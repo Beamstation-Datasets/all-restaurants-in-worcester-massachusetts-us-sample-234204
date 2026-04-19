@@ -1,6 +1,6 @@
 # All Restaurants in Worcester, Massachusetts, US
 
-> Free BeamStation sample export with 78 rows and masked direct-contact fields.
+> Free BeamStation sample export with 77 rows and masked direct-contact fields.
 
 ## Snapshot
 
@@ -9,9 +9,9 @@
 | Dataset ID | `234204` |
 | Location | Worcester |
 | Category | Restaurants |
-| Full dataset size | 784 records |
-| Free sample size | 78 records (9.95%) |
-| Last export | 2026-04-09T09:35:37.827776+00:00 |
+| Full dataset size | 778 records |
+| Free sample size | 77 records (9.9%) |
+| Last export | 2026-04-16T09:32:07.815363+00:00 |
 | Download | [Latest release asset](https://github.com/Beamstation-Datasets/all-restaurants-in-worcester-massachusetts-us-sample-234204/releases/download/sample-latest/beamstation_234204_restaurants-us-ma_SAMPLE_DIST.csv) |
 
 ## What is in this sample
