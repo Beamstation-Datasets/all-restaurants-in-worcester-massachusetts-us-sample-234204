@@ -1,12 +1,12 @@
 {
-  "export_job_id": "54e37771-6252-4317-90b3-5e5477afd312",
+  "export_job_id": "5d1c71c6-3a42-4d5e-8c5f-715fe36f642d",
   "id_short": 234204,
-  "published_at": "2026-04-23T19:33:30Z",
+  "published_at": "2026-04-30T19:29:15Z",
   "repo_name": "all-restaurants-in-worcester-massachusetts-us-sample-234204",
   "sample_asset_name": "beamstation_234204_restaurants-us-ma_SAMPLE_DIST.csv",
   "sample_b2_path": "b2-export:BeamStation-ExportFiles/234204/beamstation_234204_restaurants-us-ma_SAMPLE_DIST.csv",
-  "sample_records": 72,
-  "sample_sha256": "fdf088493025147c238a9c1c25caf8918129ff8971e8c7f33c3cbe1894770697",
-  "sample_size_bytes": 290428,
-  "total_records": 723
+  "sample_records": 77,
+  "sample_sha256": "61a1337a268c34d26a1629d4e5db123afe055612fd31f7c0c634dc42c8e5de5e",
+  "sample_size_bytes": 259528,
+  "total_records": 773
 }
